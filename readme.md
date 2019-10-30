@@ -1,1 +1,1 @@
-![ScreenShot](vlocity.png)
+![ScreenShot](vlocity.jpg)
